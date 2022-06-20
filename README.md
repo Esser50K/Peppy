@@ -108,4 +108,5 @@ Key features:
 Known issues:
 * IR remote control doesn't work with WiFi network.
 * IR remote control doesn't work with animated titles.
-* Some radio stations don't work on Linux plarform because of old version of the 'mpd' player.
+* Some radio stations don't work on Linux platform because of old version of the 'mpd' player.
+
